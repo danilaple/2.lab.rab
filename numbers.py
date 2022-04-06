@@ -5,5 +5,5 @@ c=int(input())
 d=int(input())
 sum1=a+b
 sum2=c+d
-x=sum1/sum2
-print('%.2f' % x)
+result=sum1/sum2
+print('%.2f' % result)
