@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 print("What is your name?")
 name = input()
 print("How old are you?")
