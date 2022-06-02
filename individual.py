@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import math
 a=int(input("Enter the length of the larger base a: "))
 b=int(input("Enter the length of the smaller base b: "))
